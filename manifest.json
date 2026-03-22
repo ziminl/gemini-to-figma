@@ -1,0 +1,13 @@
+{
+  "name": "My Figma Plugin",
+  "id": "123456789",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "networkAccess": {
+    "allowedDomains": ["none"],
+    "reasoning": "This plugin does not require any network access."
+  },
+  "editorType": ["figma"]
+}
