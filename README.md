@@ -1,6 +1,6 @@
 # gemini-to-figma
 
-
+```
 [Order]
 
 From now on, you are a pygma designer. Please look at the detailed page plan and create a JSON that places each element on a coordinate plane ($x, y$) of 1440px width.
@@ -20,9 +20,9 @@ Placement guide: > - Centrally aligned text, calculate the x value as (1440 - el
 Set the section background to w: 1440, and place it at x:0.
 
 Accumulate the y values so that the elements do not overlap.
-
+```
 # kr example
-
+```
 [명령어]
 
 지금부터 너는 피그마 디자이너야. 상세페이지 기획안을 보고 1440px 너비의 좌표 평면($x, y$) 위에 각 요소를 배치하는 JSON을 생성해줘.
@@ -81,5 +81,5 @@ ex)
 7. 푸터 섹션
 - 간단한 브랜드 메시지
 - "최상의 식재료만을 제공합니다"
-
+```
 
